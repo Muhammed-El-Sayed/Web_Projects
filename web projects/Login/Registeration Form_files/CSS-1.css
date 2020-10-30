@@ -1,0 +1,104 @@
+body{
+    background-image:url('https://wallpapertag.com/wallpaper/full/c/9/9/815691-vertical-water-droplets-background-1920x1200-for-full-hd.jpg');
+    
+    
+}
+
+
+
+
+
+
+form{
+    background-color:white;
+    width:400px;
+    height:600px;
+    margin:40px;
+    margin-left:500px;
+    margin-top:30px;
+    border-radius:20px;
+    
+}
+
+.In{
+    
+    width:350px;
+    margin:10px;
+    margin-top:20%;
+    margin-bottom:0px;
+    border-radius:10px;
+}
+
+
+.In1{
+    
+    width:350px;
+    margin:10px;
+    margin-top: 20px;
+    
+    border-radius:10px;
+}
+
+.login{
+    
+    font-size:x-large;
+    font-weight:bold;
+    text-align: center;
+    padding-top:40px;
+    
+    
+}
+
+
+
+
+
+.submit{
+    
+margin:40px;
+margin-left:160px;
+border-radius:20px;
+margin-bottom:0px;
+width:70px;
+
+}
+
+
+.submit1{
+    
+margin-top:6px;
+margin-left:260px;
+color:grey;
+background-color:white; 
+border:none;
+width:130px;
+
+
+}
+
+
+.submit:hover,.mm:hover,.mm1:hover{
+    
+    color:black;
+    background-color:#1488FC; 
+}
+
+.bla{
+    
+    
+    text-align: center;
+    margin-top:30px;
+}
+
+.mm1{
+    margin-top:20px;
+    margin-left:100px;
+    border-radius:20px;
+ 
+  
+}
+.mm{
+   
+    margin-left:60px;
+    border-radius:20px;
+}

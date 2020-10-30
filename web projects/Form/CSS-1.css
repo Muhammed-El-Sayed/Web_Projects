@@ -1,0 +1,67 @@
+body{
+    background-image:url('http://1.bp.blogspot.com/-uolO5vjwNOc/TpFJC8lAMXI/AAAAAAAAAbY/4XixTEb3rTo/s1600/Digital+Universe+%252834%2529.JPG');
+    
+    
+}
+
+
+
+
+
+
+form{
+    background-color:white;
+    width:400px;
+    height:600px;
+    margin:40px;
+    margin-left:500px;
+    margin-top:30px;
+    border-radius:20px;
+    
+}
+
+.In{
+    
+    width:350px;
+    margin:10px;
+    border-radius:10px;
+}
+
+.In2{
+    
+    
+    margin-left:100px;
+    border-radius:10px;
+}
+.cv
+{
+    color:green;
+    margin-left:5px;
+}
+
+textarea{
+    
+    margin:40px;
+    margin-top:0px;
+    margin-bottom:0px;
+    width:300px;
+}
+
+.submit{
+    
+margin:40px;
+margin-left:150px;
+border-radius:20px;
+
+}
+
+
+.submit:hover{
+    
+    color:black;
+    background-color:#1488FC; 
+}
+
+
+
+
